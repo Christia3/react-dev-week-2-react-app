@@ -5,3 +5,7 @@
   min-height: 100vh;
   background-color: #f5f5f5;
 }
+.my-component p {
+  font-size: 16px;
+  color: #333;
+}
